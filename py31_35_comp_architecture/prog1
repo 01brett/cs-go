@@ -1,0 +1,9 @@
+# comment
+
+1  # PRINT_HELLO
+3  # SAVE_REG r4 37
+4
+37
+4  # PRINT_REG r4
+4
+2  # HALT
