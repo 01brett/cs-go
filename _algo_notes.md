@@ -1,4 +1,4 @@
-# A problem you'll see in interviews
+# A problem you'll see in interviews of all kinds
 
 Return the "centered" average of an array of ints, which we'll say is the mean average of the values, except ignoring the largest and smallest values in the array.
 
